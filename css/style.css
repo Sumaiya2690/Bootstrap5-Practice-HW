@@ -1,0 +1,37 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: lightcoral;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: pink;
+	font-size: 36px;
+	color: darkblue;
+}
+.red{
+	background-color: lime;
+}
+.five{
+	background-color: skyblue;
+}
+.box1{
+	margin: 10px 0;
+	min-height: 60px;
+	background-color: skyblue;
+	font-size: 20px;
+	text-align: center;
+	color: darkblue;
+}
+.box2{
+	width: 120px;
+	height: 120px;
+	background-color: peachpuff;
+	margin-right: 5px;
+}
+.box3{
+	min-height: 40px;
+}
+.box4{
+	min-height: 100px;
+}
